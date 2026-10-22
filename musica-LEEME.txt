@@ -1,0 +1,1 @@
+Para añadir música: coloca un archivo MP3 en esta carpeta y llámalo musica.mp3. Usa una canción que tengas permiso para usar. Después actualiza la página y pulsa reproducir.
